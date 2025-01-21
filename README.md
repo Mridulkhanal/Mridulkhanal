@@ -27,12 +27,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 Here are some of my notable projects:
 
 - [**Project 1**](https://github.com/Mridulkhanal/mridul): 
-- [**Project 2**](https://github.com/Mridulkhanal/my-portfolio):
+- [**my-portfolio**](https://github.com/Mridulkhanal/my-portfolio):
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mridulkhanal)
-- [Twitter](https://twitter.com/mridulkhanal)
+- [LinkedIn](https://[www.linkedin.com/in/mridulkhanal](https://www.linkedin.com/in/mridul-khanal-686028304/))
 - [Personal Website](https://mridulkhanal.com.np)
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
