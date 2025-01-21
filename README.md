@@ -31,7 +31,7 @@ Here are some of my notable projects:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://[(https://www.linkedin.com/in/mridul-khanal-686028304/)])
+- [LinkedIn](https://www.linkedin.com/in/mridul-khanal-686028304/)
 - [Personal Website](https://mridulkhanal.com.np)
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
