@@ -11,16 +11,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 📫 How to reach me: [mridulkhanal30@gmail.com](mailto:mridulkhanal30@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new places.
 
+
+## 📈 GitHub Stats
+
+![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mridulkhanal&show_icons=true&theme=radical)
 ## 🚀 Skills
 
 - **Languages:** JavaScript, Python, HTML, CSS
 - **Frameworks/Libraries:** React, Node.js, Express, Django
 - **Databases:** MongoDB, MySQL,
 - **Tools:** Git
-
-## 📈 GitHub Stats
-
-![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mridulkhanal&show_icons=true&theme=radical)
 
 ## 📂 Projects
 
