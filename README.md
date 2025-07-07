@@ -22,9 +22,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Databases:** MongoDB, MySQL,
 - **Tools:** Git
   
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ## 📂 Projects
 
 Here are some of my notable projects:
