@@ -74,3 +74,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khanal.mridul/)
 ---
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
+🎯 Keep building, learning, and sharing — you're on a great path!
+::contentReference[oaicite:5]{index=5}
