@@ -14,7 +14,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📈 GitHub Stats
 
-![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mridulkhanal&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mridulkhanal&show_icons=true&theme=radical" alt="Mridulkhanal's GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mridulkhanal&theme=radical" alt="GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridulkhanal&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
 ## 🚀 Skills
 
 - **Languages:** JavaScript, Python, HTML, CSS
