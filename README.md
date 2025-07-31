@@ -23,12 +23,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 </p>
 
 
-## 🚀 Skills
+## 🛠️ Skills
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks/Libraries:** React, Node.js, Express, Django
-- **Databases:** MongoDB, MySQL,
-- **Tools:** Git
+| Languages     | Tools & Frameworks     | Others                 |
+| ------------- | ---------------------- | ---------------------- |
+| Python 🐍     | React ⚛️               | Git & GitHub           |
+| Java ☕        | Node.js 🚀             | Linux         |
+| C/C++         | Express.js             |          |
+| JavaScript    | MongoDB, MySQL         | Networking, Security   |
+| HTML/CSS      | Bootstrap, Tailwind    | Agile Methodologies    |
   
 ## 📂 Projects
 
