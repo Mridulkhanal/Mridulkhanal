@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on various web development projects.
+- 🎓 BIM student at Nepal Commerce Campus, Kathmandu.
+- 💻 Passionate about building full‑stack web applications and exploring open‑source.
 - 🌱 I’m currently learning advanced data science techniques and machine learning.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about JavaScript, Python, and React.
@@ -74,5 +75,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khanal.mridul/)
 ---
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
-🎯 Keep building, learning, and sharing — you're on a great path!
-::contentReference[oaicite:5]{index=5}
+
