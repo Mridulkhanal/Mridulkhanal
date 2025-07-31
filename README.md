@@ -42,7 +42,9 @@ Here are some of my notable projects:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mridul-khanal-686028304/)
-- [Personal Website](https://mridulkhanal.com.np)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0078d4?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mridul-khanal-686028304/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](khanalmridul30@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=github&logoColor=white)]([https://your-portfolio-link.com](https://mridulkhanal.com.np))
 
+---
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
