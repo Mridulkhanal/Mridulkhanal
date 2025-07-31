@@ -23,59 +23,46 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 </p>
 
 
-🛠️ Tech Stack
-Frontend
-React
-![React Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-HTML5
-![HTML5 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-CSS3
-![CSS3 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-JavaScript
-![JavaScript Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-Backend
-Node.js
-![Node.js Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
-Express.js
-![Express Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
-Languages
-JavaScript
-![JavaScript Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-Python
-![Python Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-Tools & Frameworks
-Git
-![Git Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-VS Code
-![VS Code Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
-NPM
-![NPM Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg)
-Hosting & DevOps
-GitHub Pages
-![GitHub Pages Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-Vercel
-![Vercel Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg)
-Netlify
-![Netlify Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg)
+# 🛠️ Tech Stack
+
+| Category       | Technology / Tool          | Icon                                                                                                                                                  |
+|----------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**   | React                     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="22"/>                                       |
+|                | HTML5                     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="22"/>                                       |
+|                | CSS3                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="22"/>                                          |
+|                | JavaScript                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="22"/>                        |
+| **Backend**    | Node.js                   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="22"/>                                   |
+|                | Express.js                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="22"/>                              |
+|                | Django                    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="22"/>                                       |
+|                | PHP                       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="22"/>                                             |
+| **Languages**  | JavaScript                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="22"/>                        |
+|                | Python                    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="22"/>                                    |
+|                | CSS                       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="22"/>                                          |
+|                | HTML                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="22"/>                                       |
+|                | PHP                       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="22"/>                                             |
+| **Tools & Frameworks** | Git                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="22"/>                                             |
+|                | VS Code                   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="22"/>                                   |
+|                | NPM                       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="22"/>                                    |
+|                | Vite                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="22"/>                                          |
+| **Hosting & DevOps** | GitHub Pages         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="22"/>                                    |
+|                | Vercel                    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="22"/>                                    |
+|                | Netlify                   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="22"/>                                 |
+
+---
   
-🚀 Projects
-Browse some of my featured projects. Click to view the code or try them live!
+# 🚀 Projects
 
-online-nursery-plant-shopping-system
-An academic e-commerce-based project developed as part of the 6th Semester BIM Curriculum. The platform enables users to buy nursery plants online and integrates Khalti payment gateway for secure transactions.
-[GitHub Repo](https://github.com/Mridulkhanal/online-nursery-plant-shopping-system)
+| Project Name | Description | GitHub | Live Demo |
+|--------------|-------------|--------|-----------|
+| Age Calculator | Calculate age from date of birth | [Repo](https://github.com/Mridulkhanal/age-calculator) | [Live](https://age-calculator-smoky-mu.vercel.app) |
+| Alarm Clock Django | Multi-alarm clock web app using Django | [Repo](https://github.com/Mridulkhanal/alarm-clock-django) | - |
+| Currency Converter | Convert values between currencies using real-time rates | [Repo](https://github.com/Mridulkhanal/currency-converter) | [Live](https://currency-converter-dusky-sigma-75.vercel.app) |
+| Portfolio | My personal portfolio | [Repo](https://github.com/Mridulkhanal/my-portfolio) | [Live](https://www.mridulkhanal.com.np/) |
+| Online Nursery Plant Shopping System | E-commerce project for buying plants | [Repo](https://github.com/Mridulkhanal/online-nursery-plant-shopping-system) | - |
+| Vite React | React project bootstrapped with Vite | [Repo](https://github.com/Mridulkhanal/vite-react) | [Live](https://vite-react-peach-xi-17.vercel.app) |
+| Weather Animation | Weather animation using CSS | [Repo](https://github.com/Mridulkhanal/Weather-Animation) | [Live](https://weather-animation-topaz.vercel.app) |
+| Word Scramble Game | Browser-based word puzzle game | [Repo](https://github.com/Mridulkhanal/Word-Scramble-Game) | [Live](https://word-scramble-game-zeta.vercel.app) |
 
-[Word-Scramble-Game](https://word-scramble-game-zeta.vercel.app/)
-A dynamic and engaging browser-based word puzzle game where players unscramble words within a time limit to earn points.
-[GitHub Repo](https://github.com/Mridulkhanal/Word-Scramble-Game)
-
-[currency-converter](https://currency-converter-dusky-sigma-75.vercel.app/)
-A simple and user-friendly currency converter application that allows users to convert values between different currencies using real-time exchange rates
-[GitHub Repo](https://github.com/Mridulkhanal/currency-converter)
-
-alarm-clock-django
-A simple multi-alarm clock web app using Django
-[GitHub Repo](https://github.com/Mridulkhanal/alarm-clock-django)
 
 ## 🌐 Connect with Me
 
