@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 💬 Ask me about JavaScript, Python, and React.
 - 📫 How to reach me: [mridulkhanal30@gmail.com](mailto:mridulkhanal30@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new places.
-
+![](https://nirzak-streak-stats.vercel.app/?user=Mridulkhanal&theme=dark&hide_border=false)
 
 ## 📈 GitHub Stats
 
