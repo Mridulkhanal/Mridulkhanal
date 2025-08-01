@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📈 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Mridulkhanal&theme=dark&hide_border=false)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mridulkhanal&show_icons=true&theme=radical" alt="Mridulkhanal's GitHub stats" width="29%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mridulkhanal&show_icons=true&theme=radical" alt="Mridulkhanal's GitHub stats" width="49%" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridulkhanal&layout=compact&theme=radical" alt="Top Languages" />
