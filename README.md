@@ -11,13 +11,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 💬 Ask me about JavaScript, Python, and React.
 - 📫 How to reach me: [mridulkhanal30@gmail.com](mailto:mridulkhanal30@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new places.
-![](https://nirzak-streak-stats.vercel.app/?user=Mridulkhanal&theme=dark&hide_border=false)
+
 
 ## 📈 GitHub Stats
-
+![](https://nirzak-streak-stats.vercel.app/?user=Mridulkhanal&theme=dark&hide_border=false)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mridulkhanal&show_icons=true&theme=radical" alt="Mridulkhanal's GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mridulkhanal&theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mridulkhanal&show_icons=true&theme=radical" alt="Mridulkhanal's GitHub stats" width="29%" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridulkhanal&layout=compact&theme=radical" alt="Top Languages" />
