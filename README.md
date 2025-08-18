@@ -12,6 +12,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 📫 How to reach me: [mridulkhanal30@gmail.com](mailto:mridulkhanal30@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new places.
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0078d4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridul-khanal-686028304/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanalmridul30@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=github&logoColor=white)](https://mridulkhanal.com.np)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mridulkhanal9)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mrdula.khanala)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khanal.mridul/)
+---
 
 ## 📈 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Mridulkhanal&theme=dark&hide_border=false)
@@ -62,14 +71,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 | Word Scramble Game | Browser-based word puzzle game | [Repo](https://github.com/Mridulkhanal/Word-Scramble-Game) | [Live](https://word-scramble-game-zeta.vercel.app) |
 
 
-## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0078d4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridul-khanal-686028304/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanalmridul30@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=github&logoColor=white)](https://mridulkhanal.com.np)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mridulkhanal9)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mrdula.khanala)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khanal.mridul/)
----
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
 
