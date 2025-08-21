@@ -39,7 +39,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 |                | CSS3                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="22"/>                                          |
 |                | JavaScript                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="22"/>                        |
 | **Backend**    | Node.js                   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="22"/>                                   |
-|                | Express.js                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="22"/>                              |
 |                | Django                    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="22"/>                                       |
 |                | PHP                       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="22"/>                                             |
 | **Languages**  | JavaScript                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="22"/>                        |
