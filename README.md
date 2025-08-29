@@ -67,7 +67,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 | Currency Converter | Convert values between currencies using real-time rates | [Repo](https://github.com/Mridulkhanal/currency-converter) | [Live](https://currency-converter-dusky-sigma-75.vercel.app) |
 | Portfolio | My personal portfolio | [Repo](https://github.com/Mridulkhanal/my-portfolio) | [Live](https://www.mridulkhanal.com.np/) |
 | Online Nursery Plant Shopping System | E-commerce project for buying plants | [Repo](https://github.com/Mridulkhanal/online-nursery-plant-shopping-system) | - |
-| Vite React | React project bootstrapped with Vite | [Repo](https://github.com/Mridulkhanal/vite-react) | [Live](https://vite-react-peach-xi-17.vercel.app) |
 | Weather Animation | Weather animation using CSS | [Repo](https://github.com/Mridulkhanal/Weather-Animation) | [Live](https://weather-animation-topaz.vercel.app) |
 | Word Scramble Game | Browser-based word puzzle game | [Repo](https://github.com/Mridulkhanal/Word-Scramble-Game) | [Live](https://word-scramble-game-zeta.vercel.app) |
 
