@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I’m currently learning advanced data science techniques and machine learning.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about JavaScript, Python, and React.
-- 📫 How to reach me: [mridulkhanal30@gmail.com](mailto:mridulkhanal30@gmail.com)
+- 📫 How to reach me: [khanalmridul30@gmail.com](mailto:khanalmridul30@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## 🌐 Connect with Me
