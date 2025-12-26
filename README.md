@@ -30,30 +30,47 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridulkhanal&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-
 # 🛠️ Tech Stack
 
-| Category       | Technology / Tool          | Icon                                                                                                                                                  |
-|----------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**   | React                     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="22"/>                                       |
-|                | HTML5                     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="22"/>                                       |
-|                | CSS3                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="22"/>                                          |
-|                | JavaScript                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="22"/>                        |
-| **Backend**    | Node.js                   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="22"/>                                   |
-|                | Django                    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="22"/>                                       |
-|                | PHP                       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="22"/>                                             |
-| **Languages**  | JavaScript                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="22"/>                        |
-|                | Python                    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="22"/>                                    |
-|                | CSS                       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="22"/>                                          |
-|                | HTML                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="22"/>                                       |
-|                | PHP                       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="22"/>                                             |
-| **Tools & Frameworks** | Git                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="22"/>                                             |
-|                | VS Code                   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="22"/>                                   |
-|                | NPM                       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="22"/>                                    |
-|                | Vite                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="22"/>                                          |
-| **Hosting & DevOps** | GitHub Pages         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="22"/>                                    |
-|                | Vercel                    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="22"/>                                    |
-|                | Netlify                   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="22"/>                                 |
+<div align="center">
+  <!-- NEW: Tech Stack with skill bars -->
+  <!-- Frontend -->
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  </p>
+  
+  <!-- Backend -->
+  <h3>Backend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Django-41CD52?style=for-the-badge&logo=Django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/php-41CD52?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+  </p>
+  
+  <!-- Database & Cloud -->
+  <h3>Database & Cloud</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </p>
+  
+  <!-- Tools -->
+  <h3>Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/vscode-064F8C?style=for-the-badge&logo=vscode&logoColor=white" alt="vscode" />
+  </p>
+</div>
 
 ---
   
