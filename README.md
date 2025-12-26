@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khanal.mridul/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mridulkhanal9)
 ---
-
+  <!-- Improved Profile Views Counter with animated badge -->
+  <img src="https://komarev.com/ghpvc/?username=Mridulkhanal&label=Profile%20views&color=blueviolet&style=for-the-badge&logo=github" alt="Profile Views">
 ## 📈 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Mridulkhanal&theme=dark&hide_border=false)
   <img src="https://github-readme-stats.vercel.app/api?username=Mridulkhanal&show_icons=true&theme=radical" alt="Mridulkhanal's GitHub stats" width="49%" />
